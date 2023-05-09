@@ -1,0 +1,26 @@
+.invisivel{
+    display: none;
+}
+
+
+.imgg{
+    width: 1850px;
+    height: 450px;
+}
+
+.center{
+    justify-content: center;
+    display: flex;
+}
+
+.cente{
+    justify-content: center;
+    display: flex;
+
+}
+
+#paises{
+    justify-content: center;
+    display: flex;
+    position: absolute;
+}
